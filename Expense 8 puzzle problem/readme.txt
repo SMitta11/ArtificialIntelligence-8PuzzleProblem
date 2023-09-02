@@ -1,6 +1,4 @@
-Name: Shefali Mittal
-UTA ID: 1002055262
-Programming language: Python 3.11.3
+
 
 Code Structure:
 
